@@ -1,0 +1,6 @@
+Start date and time: 2023-06-25 23:28:46.264219
+KEYWORDS: (['разработчик', 'сервер', 'Git', 'домен'],)
+Function's name: keywords_scrapping
+
+Result: [{'WORD': 'разработчик', 'published_dt': 'Дата публикации: 2023-06-25, 21:22', 'title': 'Mini-ml-stand для бедных', 'link': 'https://habr.com/ru/articles/743782/'}, {'WORD': 'разработчик', 'published_dt': 'Дата публикации: 2023-06-25, 14:29', 'title': '«Правильные JIRA issues». Как правильно разбивать задачи на тикеты', 'link': 'https://habr.com/ru/articles/743744/'}, {'WORD': 'сервер', 'published_dt': 'Дата публикации: 2023-06-25, 09:00', 'title': 'Клонирование ОС под шифрованным LVM на меньший по объему диск', 'link': 'https://habr.com/ru/articles/743684/'}]
+
